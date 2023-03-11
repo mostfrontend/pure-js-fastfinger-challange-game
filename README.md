@@ -1,4 +1,4 @@
-# Fast Fingers Challange
+### Fast Fingers Challange
 
 > Fast speed typing app middle level built with JavaScript
 
